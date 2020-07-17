@@ -11,7 +11,6 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-//using BulkyBook.DataAccess.Data;
 using BulkyBook.DataAccess.Data;
 namespace Bulky_Book
 {
